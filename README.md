@@ -1,22 +1,23 @@
 ### Hi there 👋
 ## I'm a Junior Full Stack Developer
-# And I’m currently open to work 
+## And I’m currently open to work 
+
 ## Technologies
-# Frontent
+### Frontent
 - Angular
 - Typescript 
 - Javascript
 - HTML
 - CSS 
-# Backend
+### Backend
 - Java
 - Spring
 - Node.js
 - PHP
-# Database
+### Database
 - SQL
 - MongoDB 
-# DevOps
+### DevOps
 - Git
 - RTC
 - Subversion

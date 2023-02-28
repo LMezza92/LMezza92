@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I'm a Junior Full Stack Developer
-## And I’m currently open to work 
+I'm a Junior Full Stack Developer
+And I’m currently open to work 
 
 ## Technologies
 ### Frontent

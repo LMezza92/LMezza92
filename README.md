@@ -1,16 +1,28 @@
 ### Hi there 👋
+# I'm a Junior Full Stack Developer
 
-<!--
-**LMezza92/LMezza92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Technologies
 
-Here are some ideas to get you started:
+# Frontent
+- Angular
+- Typescript 
+- Javascript
+- HTML
+- CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Backend
+- Java
+- Spring
+- Node.js
+- PHP
+
+# Database
+- SQL
+- MongoDB 
+
+# DevOps
+- Git
+- RTC
+- Subversion
+
+## I’m currently open to work 
